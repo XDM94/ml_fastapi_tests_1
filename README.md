@@ -1,8 +1,1 @@
-[![Tests](https://github.com/tokarevsas31/ml_fastapi_tests/actions/workflows/python-app.yml/badge.svg)](https://github.com/tokarevsas31/ml_fastapi_tests/actions/workflows/python-app.yml)
-
-# An example of ML Application with the pretrained model and test.
-
-An example of English text tone detection with [Hugging Face](https://huggingface.co/) library.
-
-
-Tests GitHub Actions
+Этот API предоставляет простой способ определения тональности (позитивной или негативной) текстовых данных. Основываясь на машинном обучении и анализе текста, приложение может быстро и точно определить тональность заданного текста.
